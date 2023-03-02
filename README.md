@@ -1,6 +1,6 @@
 # dynamic-nav-arjun
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the dynamic tree view made in Vue.
 
 ## Recommended IDE Setup
 
